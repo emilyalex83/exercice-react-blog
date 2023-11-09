@@ -1,4 +1,5 @@
-import './Footer.scss'
+import Footer from "./Footer";
+import Header from "./Header";
 
 function Home() {
     const articles = [
